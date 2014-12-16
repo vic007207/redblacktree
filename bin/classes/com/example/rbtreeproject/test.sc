@@ -35,4 +35,3 @@ rbmember(100, bigTree)
 rbmember(101, bigTree)
 rbtraversal(left(bigTree))
 rbtraversal(right(bigTree))
-
